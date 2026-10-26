@@ -10,8 +10,8 @@
 
 - [Main Functions](#main-functions)
    
-    - [How It Works](#How it Works)
-
+    - [How It Works](#how-it-works)
+        - []
 
 - [Key Specifications](#key-specifications)
 
