@@ -10,7 +10,8 @@
 
 - [Main Functions](#main-functions)
    
-    - [HDD](#1-hdd)
+    - [How It Works](#How it Works)
+
 
 - [Key Specifications](#key-specifications)
 
