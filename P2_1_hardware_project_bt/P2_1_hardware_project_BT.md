@@ -19,8 +19,9 @@
 
 - [Real-World Examples](#real-world-examples)
 
-    - [SATA](#barracuda-35-2tb-sata-3--seagate)
-    - [M.2]
+    - [HDD](#barracuda-35-2tb-sata-3-seagate)
+    - [SSD](#sata-ssd-870-evo-1-tb-samsung)
+    - [M.2](#sata-ssd-870-evo-1-tb-samsung)
 
 - [References](#references)
 
@@ -61,7 +62,7 @@ uses NAND flash memory chips with no moving parts. It is much faster, quieter, a
 **M-key:** Supports PCIe x4 (typically NVMe).
 **B+M key:** Can support both SATA and PCIe, but is limited by the host slot.
 
-![Types of Keys]["\Bryan\sisi\P2_1_hardware_project_bt\img\Keys.jpg"]
+![Types of Keys](\Bryan\sisi\P2_1_hardware_project_bt\img\Keys.jpg "agua de limon")
 
 **NVMe (Non-Volatile Memory Express)** is the communication protocol, the “language” the SSD and the system use to talk over that highway. It was designed specifically for flash memory. 
 
@@ -92,11 +93,48 @@ In October 2026, a 1 TB SATA SSD (Samsung 870 EVO, ~299.80 €) cost more than a
 
 ###  BarraCuda 3.5" 2TB SATA 3 — Seagate
 
+//foto
+
+- key specs:
+    - Storage capacity: 2 TB
+    - Form factor: 3.5" / SATA III (6 Gb/s)
+    - Speed: 7,200 RPM / 256 MB
+    - Weight: 415 g
+- Price (checked on 2026-10-28):149.95 €
+
+  [Official Website](https://www.pccomponentes.com/disco-duro-seagate-barracuda-3-5-2tb-sata-3)
 
 
+###  SATA SSD 870 EVO 1 TB - Samsung
+
+//foto
+
+- key specs: 
+    - Storage capacity: 1 TB
+    - Form factor: SSD: 2.5"
+    - Speed: 560 / 530 MB/s
+    - Weight: 86 g
+- price (checked on 2026-10-28): 294.99€
+
+[Official Website](https://www.pccomponentes.com/disco-duro-samsung-870-evo-ssd-2-5-1tb-sata3-negro)
+
+###  NVMe SSD 990 EVO Plus 1 TB - Samsung
+
+//foto
+
+ key specs: 
+    - Storage capacity: 1 TB
+    - Form factor: M.2 2280 / PCIe 4.0 x4 or PCIe 5.0 x2 (NVMe 2.0)
+    - Speed: 7,150 / 6,300 MB/s
+    - Random read / write: 850,000 / 1,350,000 IOPS
+- price (checked on 2026-10-28): 229.56€
+
+[Official Website](https://www.pccomponentes.com/disco-duro-samsung-990-evo-plus-1tb-disco-ssd-7150mb-s-nvme-pcie-4-0-nvme-2-0-nand)
 
 
+#  References
 
+[Hard disk drive (HDD) versus Solid-state drive](https://www.ibm.com/think/topics/hard-disk-drive-vs-solid-state-drive)
 
+[What is a Solid-State Drive (SSD)](https://hitachivantara.com/en-in/insights/faq/what-is-solid-state-drive.html)
 
-["C:\Bryan\sisi\P2_1_hardware_project_bt\img\Keys.jpg"]: "\Bryan\sisi\P2_1_hardware_project_bt\img\Keys.jpg" "Keys"
